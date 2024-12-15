@@ -1,0 +1,9 @@
+Functions
+Lists ,  FixedArrays , (Typed or any)
+
+structs
+  . accessors
+  methods
+
+
+macros?

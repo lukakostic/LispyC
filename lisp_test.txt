@@ -1,0 +1,30 @@
+//(PRINT "hello!")
+/*
+(LET !x "x")
+(PRINT x)
+
+{
+    (LET !x 5)
+    (PRINT x)
+}
+(PRINT x)
+*/
+
+
+(LET !x "x")
+{
+    (PRINT x)
+    (LET !x "ff")
+    (PRINT x)
+    (= !x "test")
+    //(PRINT (+ "prefiksblablablablablabla:" 9 (+ 1 (+ 1 55 "1000000"))))
+    (PRINT x)
+    
+    (LET !x 10)
+    (PRINT (+ TRUE x))
+    (= !x 20)
+    (PRINT (+ FALSE x))
+}
+(PRINT "after:" x)
+
+//(PRINT "test")
