@@ -1,3 +1,11 @@
-Lisp but like C(++).   
-Typed or dynamic variables and lists.   
-Structs.   
+Lisp & C++ merge:
+   
+- Typed or Dynamic    
+- Fixed size arrays  
+- Stack or Heap allocations    
+- Structs   
+- Pointers?   
+  
+  
+No dependencies.  
+  
