@@ -1,5 +1,5 @@
 
-#include"../simpLex.hpp"
+#include"simpLex.hpp"
 
 #include<optional>
 // #include<unordered_map>

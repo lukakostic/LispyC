@@ -1,0 +1,1 @@
+clear && g++ src/lispParse.cpp -Wall -pedantic -o lispParse
